@@ -2,7 +2,7 @@
 
 ## Descrição
 
-## Tecnologias
+## Tecnologias utilizadas
 
 ## Demostração
 
