@@ -3,7 +3,7 @@
 ## ✒️ Descrição
 Aplicação desenvolvida na aula de React da _Trilha Ignite_ da Rocketseat, utilizando conceitos e ferramentas importantes do ecossistema React como Styled Components, MirageJS, Context API, hooks, Axios. O objetivo dessa aplicação e ser uma alternativa simples e eficaz para gerenciar finanças, permitindo o cadastro de entradas e saídas de valores organizando melhor as contas.
 
-## 💻 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="img-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
