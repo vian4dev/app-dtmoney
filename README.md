@@ -32,10 +32,6 @@ Instale as dependências.
 ~~~
 yarn
 ~~~
-Execute o servidor JSON server.
-~~~
-yarn server
-~~~
 Execute a aplicação.
 ~~~
 yarn start
