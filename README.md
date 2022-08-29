@@ -38,6 +38,7 @@ Execute a aplicação.
 yarn start
 ~~~
 
+---
 <div align="center"> 
  <p>🤖 Desenvolvido por - <a href="https://github.com/vian4dev">Gabriel Viana</a></p>
  
