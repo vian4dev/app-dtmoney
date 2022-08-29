@@ -11,3 +11,23 @@ Apresentação da tela do aplicativo.
 </div>
 
 ## Instalação
+Clone o repositório.
+~~~
+git clone https://github.com/vian4dev/dtmoney.git
+~~~
+Acesse o diretório do projeto.
+~~~
+cd dtmoney
+~~~
+Instale as dependências.
+~~~
+yarn
+~~~
+Execute o servidor JSON server.
+~~~
+yarn server
+~~~
+Execute a aplicação.
+~~~
+yarn start
+~~~
