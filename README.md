@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://www.rocketseat.com.br/assets/logos/ignite-reduced.svg" width="150" height="150" alt="Ignite">
+</div>
+
 # dt money
 
 ## ✒️ Descrição
