@@ -42,6 +42,9 @@ Execute a aplicação.
 yarn start
 ~~~
 
+## 📝 Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 ---
 <div align="center"> 
  <p>Desenvolvido por - <a href="https://github.com/vian4dev">Gabriel Viana</a> 🤖</p>
