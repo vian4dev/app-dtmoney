@@ -50,7 +50,7 @@ git clone https://github.com/vian4dev/dtmoney.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd dtmoney
+cd dtmoney/
 ~~~
 Instale as dependências.
 ~~~
