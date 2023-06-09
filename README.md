@@ -42,7 +42,7 @@ Aplicação desenvolvida na aula de React da _Trilha Ignite_ da Rocketseat, util
 ## 📷 Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
-  <img src="./.github/dtmoney.png" alt="dtmoney" border="0">
+  <img src="./.github/dtmoney.git" alt="dtmoney" border="0">
 </div>
 
 ## 🔥 Instalação
