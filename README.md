@@ -36,7 +36,7 @@ Aplicação desenvolvida na aula de React da _Trilha Ignite_ da Rocketseat, util
   
   <img align="center" alt="img-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   
-  <img align="center" alt="img-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="img-sass" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.svg">
 </div>
 
 ## 📷 Demostração
